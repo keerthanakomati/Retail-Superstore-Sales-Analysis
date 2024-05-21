@@ -1,7 +1,8 @@
 # Retail-Superstore-Sales-Analysis
 
 Project Name: Retail Superstore Sales Analysis
- # Objective: To analyze the sales data of a retail superstore to identify weak areas and potential opportunities to increase profitability. The report provides insights into total sales, costs, profits, quantities, discounts, and performance across different categories, segments, and regions.
+ # Objective: 
+ To analyze the sales data of a retail superstore to identify weak areas and potential opportunities to increase profitability. The report provides insights into total sales, costs, profits, quantities, discounts, and performance across different categories, segments, and regions.
 
 # Data Source
 File Name: `superstore_sales.csv` 
